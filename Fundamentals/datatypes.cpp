@@ -18,5 +18,7 @@ int main()
     cout<<e<<endl;
     cout<<f<<endl;
     cout<<g<<endl;
+
+    cout<<5.0;//output 5
     
 }

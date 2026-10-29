@@ -3,10 +3,10 @@
 //check until (n)^1/2
 //ex 36 
 //we get 1,2,3,4,6 divisor
-//know get theanother part and add it also
+//know get the another part and add it also
 //1x36, 2x16 ,3x12 , 4x9, 6x6
 //remove duplicate and the number itself
-#include<iostream>
+#include<iostream> 
 using namespace std;
 bool Perfect_Number(int num) 
 {

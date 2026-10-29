@@ -5,6 +5,11 @@
 using namespace std;
 int main()
 {
+    // reverse(n.begin(),n.end());  // reverse the list
+    // n1.insert(n1.end(),n.begin(),n.end());  //combine two vector
+    // sort(s.begin(),s.end());    //sort a vector
+
+
     // vector<int> n;           //creat an empty array(container)
     // cout<<n.size()<<endl;
 
